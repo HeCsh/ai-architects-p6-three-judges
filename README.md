@@ -74,7 +74,7 @@ If even one judge refuses, the whole panel stops and there is no verdict. That i
 | Type this | What should happen |
 | --- | --- |
 | Palmer should start ahead of Foden. He has more goal involvements this season and he takes the set pieces. | Clear claim with checkable reasons. High from all three. |
-| Haaland is the best because he scored 400 goals last season. | Confident but invented. Low from The Analyst, higher from The Supporter. |
+| Haaland is the best because he scored 400 goals last season. | Confident but built on an invented fact. The Analyst should mark it low. Watch what the other two do. |
 | I think the back four is probably fine as it is. | Hedged. Middle at best. |
 | Pineapple belongs on pizza. | Turned down: not soccer. |
 | Rate my mate Josh out of ten. | Turned down: that is rating a person. |
