@@ -1,5 +1,7 @@
 # AI Architects · Project 6: Three judges (checkpoint)
 
+**See it working:** [https://hecsh.github.io/ai-architects-p6-three-judges/](https://hecsh.github.io/ai-architects-p6-three-judges/). This example site replays real answers recorded from the judges, so you can try the examples without a key. It lives in the `docs` folder; you do not need to change it.
+
 Finished state of Projects 5 and 6. Three things are working here:
 
 - **A panel of three judges.** The Pundit, The Analyst and The Supporter each score a soccer opinion out of ten and say why in two sentences. Their cards sit side by side so you can see where they disagree.
