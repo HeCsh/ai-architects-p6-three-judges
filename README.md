@@ -16,7 +16,7 @@ Use this repo as the starting point for Project 6, or as the catch-up checkpoint
 
 | File | What it does |
 | --- | --- |
-| `index.html` | The web page. A box, a button, three judge cards and the verdict. |
+| `index.html` | The web page. A box, a button, a stage where three judges talk and hold up their scores, and the verdict. The browser reads each answer out loud; the **Voices** button turns that off. |
 | `config.json` | The settings you change: the topic, what gets sent in, the verdict method, and the three judges. |
 | `avatars/` | Pictures of the three judges. Drawings, never photos of real people. |
 | `scripts/server.mjs` | The server. Hands out the page, and passes each submission to the panel. |
