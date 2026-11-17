@@ -16,6 +16,7 @@ Use this repo as the starting point for Project 6, or as the catch-up checkpoint
 | --- | --- |
 | `index.html` | The web page. A box, a button, three judge cards and the verdict. |
 | `config.json` | The settings you change: the topic, what gets sent in, the verdict method, and the three judges. |
+| `avatars/` | Pictures of the three judges. Drawings, never photos of real people. |
 | `scripts/server.mjs` | The server. Hands out the page, and passes each submission to the panel. |
 | `scripts/panel.mjs` | The panel. Asks every judge at the same time, then works out the verdict. |
 | `scripts/judge.mjs` | One judge. Turns a judge in `config.json` into instructions for the AI, adds the two rules, and reads the score out of the answer. |
